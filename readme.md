@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/DOM-min__projects-ff69b4)
+![](https://img.shields.io/badge/DOM-mini__projects-ff69b4)
 
 # DOM(Document Object Model) Manipulation Projects 1
 
